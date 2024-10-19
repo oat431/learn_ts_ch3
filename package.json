@@ -12,5 +12,8 @@
   "description": "",
   "dependencies": {
     "third_ts_class": "file:"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.7"
   }
 }

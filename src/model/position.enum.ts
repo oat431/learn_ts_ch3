@@ -1,0 +1,8 @@
+export enum Position {
+    CASHIER = 'CASHIER',
+    TICKETMASTER = 'TICKETMASTER',
+    CLEANER = 'CLEANER',
+    SECURITY = 'SECURITY',
+    MOVIE_STAFF = 'MOVIE_STAFF',
+    TRAINEE = 'TRAINEE'
+}

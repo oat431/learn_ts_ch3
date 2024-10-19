@@ -1,4 +1,4 @@
-import { BaseModel } from "../shared/base.model.js";
+import { BaseModel } from "../shared/base.movie.model.js";
 import { ReleaseDate } from "./release-date.model.js";
 import { Comment } from "./comment.model.js";
 import { MovieUtils } from "../utils/movie.interface.js";

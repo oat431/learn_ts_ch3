@@ -1,4 +1,4 @@
-import { BaseModel } from "../shared/base.model.js";
+import { BaseModel } from "../shared/base.movie.model.js";
 
 export class Comment extends BaseModel {
     private content: string;
