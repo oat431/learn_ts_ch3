@@ -8,6 +8,11 @@ import { Member } from "./model/member.model.js";
 import { Level } from "./model/level.enum.js";
 import { Response } from "./shared/response.model.js";
 
+import { Item } from "./oop_example2/model/item.model.js";
+
+const item1 = new Item(10, "item1");
+item1.name = "item1";
+
 // generic example 1
 const res: Response<string> = {
     data: "Hello World!",
